@@ -37,6 +37,7 @@ namespace CommandSystem {
 					return commands[i];
 				}
 			}
+			return NULL;
 		}
 	};
 
