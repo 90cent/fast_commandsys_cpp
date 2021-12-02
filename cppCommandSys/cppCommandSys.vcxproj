@@ -141,6 +141,9 @@
   <ItemGroup>
     <ClInclude Include="CommandSystem.h" />
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Quelle.cpp" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
